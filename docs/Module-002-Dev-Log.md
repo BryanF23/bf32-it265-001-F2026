@@ -6,9 +6,9 @@
 
 #### Goals for this Module
 
-- [x] Workshop Idea Bank
-- [x] Pitch Ideas
-- [x] One Page Treatment
+- [x] Worked on Workshop Idea Bank, saved more ideas for my game.
+- [x] Worked on Pitch Ideas, used my pitch to see what i can work on.
+- [x] Worked on One Page Treatment
 
 #### Progress
 - **What I accomplished**:

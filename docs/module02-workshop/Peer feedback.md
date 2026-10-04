@@ -1,37 +1,23 @@
+---
+
+layout: default
+title: "IT265 Module 2: Peer Feedback"
+--------------------------------------
+
 # IT265 Module 2: Peer Feedback
 
-Use one copy for each concept you review. Initials are enough; do not record classmates' contact details. Give feedback on the idea and name a decision the designer can make next.
+**Concept:** Deckrush: Blitz
 
-**Concept:**
+**Reviewer initials:** Unavailable
 
-- Deckrush: Blitz
+**In my words, the player repeatedly:** Adventures through four sections, fights enemies, and collects cards.
 
-**Reviewer initials:**
+**One clarifying question:** Unavailable
 
-- JF
+**Strongest hook or source of appeal:** The combination of adventuring, card collecting, and fighting enemies.
 
-**In my words, the player repeatedly:**
+**What one student could prototype first:** A simple four-section board with paper cards, dice, and basic enemy cards.
 
-- Adventures through four sections, fights enemies, and collects new cards.
+**Biggest uncertainty or risk to test:** Whether collecting cards and fighting enemies is fun and easy to understand.
 
-**One clarifying question:**
-
-- How will the player choose which cards to collect?
-
-**Strongest hook or source of appeal:**
-
-- The player can build their deck as they progress through the different sections.
-
-**What one student could prototype first:**
-
-- Making one section with basic cards and a few enemies.
-
-**Biggest uncertainty or risk to test:**
-
-- Whether the card choices give players enough strategy.
-
-**One actionable suggestion:**
-
-- Start with a small number of cards and test how they work against different enemies.
-
-Give your notes to the designer. Designers can use the feedback in the [selection sheet](https://github.com/jrm236/jrm236-it265-001-f2026/blob/main/docs/module02-workshop/04-select-and-scope.html) and journal entry. Link this document's rendered page from your workshop index.
+**One actionable suggestion:** Unavailable

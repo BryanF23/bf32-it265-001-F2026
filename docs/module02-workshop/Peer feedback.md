@@ -10,14 +10,13 @@ title: "IT265 Module 2: Peer Feedback"
 
 **Reviewer initials:** Unavailable
 
-**In my words, the player repeatedly:** Adventures through four sections, fights enemies, and collects cards.
-
+**In my words, the player repeatedly:** Unavailable
 **One clarifying question:** Unavailable
 
-**Strongest hook or source of appeal:** The combination of adventuring, card collecting, and fighting enemies.
+**Strongest hook or source of appeal:** Unavailable
 
-**What one student could prototype first:** A simple four-section board with paper cards, dice, and basic enemy cards.
+**What one student could prototype first:** Unavailable
 
-**Biggest uncertainty or risk to test:** Whether collecting cards and fighting enemies is fun and easy to understand.
+**Biggest uncertainty or risk to test:** Unavailable
 
 **One actionable suggestion:** Unavailable

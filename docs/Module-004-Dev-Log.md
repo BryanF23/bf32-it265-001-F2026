@@ -24,14 +24,14 @@
 #### Learnings
 - Key insights, techniques, or concepts explored.
 
-> I learned about hue, saturation, brightness, and contrast, and how they can affect the look and feel of a game. I also learned that colors should help communicate important information, not just make the game look good. Checking the colors in grayscale can help show whether important game states are still easy to recognize.
+> I learned how hue, saturation, brightness, and contrast change the look and mood of a game. Color needs to clearly show players what is happening on screen. I also learned that testing design colors in grayscale is a great way to make sure important elements stand out clearly.
 
 #### Free Thinking
 - Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
 
-> For Deckrush: Blitz, I want to explore a color palette that fits the game's card-based adventure style. I could use different accent colors to help players recognize their cards, enemies, and important actions. I also want the colors to make the game feel interesting without making the screen too confusing.
+> For Deckrush: Blitz, I want to keep the visuals clear and easy to read during fast gameplay. I can color-code cards and key actions so players can understand their choices better.
 
 #### Next Steps
 - Tasks or experiments to focus on during the next session.
 
-> I want to start thinking about a color palette for Deckrush: Blitz and how different colors could represent cards, enemies, and game states. I also want to think about how the game's colors could work together with its interface, sound, and animations while keeping important information easy to understand.
+> I want to start thinking about how the game's colors could work together with its “interface”, and objects while keeping important information easy to understand.
